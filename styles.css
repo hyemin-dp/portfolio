@@ -2,3 +2,5 @@
 .abstract-text{font-size:clamp(28px,4.1vw,64px);letter-spacing:-.055em}.tag{font-size:12px}.category,.project-number,.image-caption,.image-note{font-size:13px}.education-card p,.feature-card>p:not(.eyebrow),.process-grid p,details p{font-size:16px}@media(max-width:640px){.abstract-text{font-size:clamp(28px,8vw,48px)}.process h2{font-size:clamp(34px,9.8vw,45px)}.image-caption{font-size:11px}}
 
 .contact-placeholder a{color:inherit;text-decoration:none;border-bottom:1px solid #ffffff88}
+.feature-visual{aspect-ratio:1600/1040;overflow:hidden;background:#e9e9ef;margin-bottom:22px}
+.feature-visual img{display:block;width:100%;height:100%;object-fit:cover}
